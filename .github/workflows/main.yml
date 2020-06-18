@@ -15,4 +15,4 @@ jobs:
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
-          PERSONAL_TOKEN: ${{ 806a178d52f776c4c24623b5850aa69732f2953c.PERSONAL_TOKEN }}
+          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
