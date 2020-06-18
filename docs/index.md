@@ -1,6 +1,4 @@
-# Python Notes
-
-A `personal`- python learning note.
+# Geotechnical Notes
 
 written with markdown
 
