@@ -3,11 +3,3 @@
 written with markdown
 
 
-
-Contents
---------
-
-
-
-
-
