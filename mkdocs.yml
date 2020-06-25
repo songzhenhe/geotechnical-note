@@ -32,6 +32,6 @@ nav:
     - Slope and Retaining Wall:
       - Slope: slope_retaining_wall/slope.md
       - Retaining Wall: slope_retaining_wall/retaining_wall.md
-    - Contributing: contributing.md
-    - License: license.md
+#    - Contributing: contributing.md
+#    - License: license.md
 

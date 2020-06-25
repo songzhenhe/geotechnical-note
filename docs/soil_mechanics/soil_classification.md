@@ -1,4 +1,5 @@
 # soil_classcification
 
-written with markdown
+USCS soil_classcification
 
+![image1](../figures/USCS.png)

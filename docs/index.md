@@ -1,11 +1,9 @@
-# Geotechnical Notes
+# Geotechnical Reference Notes
 
-written with markdown
+For my friend Bruce
 
 
 
-Contents
---------
 
 
 
