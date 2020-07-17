@@ -26,12 +26,15 @@ nav:
     - Site Investigation:
       - Site Investigation: site_investigation/site_investigation.md
       - Insitu Test: site_investigation/insitu_test.md
+      - Sampling: site_investigation/sampling.md
     - Foundations:
       - Shallow Foundations: foundations/shallow_foundations.md
       - Deep Foundations: foundations/deep_foundations.md
     - Slope and Retaining Wall:
       - Slope: slope_retaining_wall/slope.md
       - Retaining Wall: slope_retaining_wall/retaining_wall.md
+    - Numerical Modelling:
+      - FLAC: numerical/flac.md
 #    - Contributing: contributing.md
 #    - License: license.md
 
