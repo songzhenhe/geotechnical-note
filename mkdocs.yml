@@ -18,23 +18,23 @@ extra_javascript:
 nav:
     - Home: index.md
     - Soil Mechanics:
-      - Soil Classification: soil_mechanics/soil_classification.md
-      - Seepage: soil_mechanics/seepage.md
-      - Effective Stress: soil_mechanics/effective_stress.md
-      - Shear Strength: soil_mechanics/shear_strength.md
-      - Earth Pressure: soil_mechanics/earth_pressure.md
+      - Soil Classification: 01_soil_classification.md
+      - Seepage: 02_seepage.md
+      - Effective Stress: 03_effective_stress.md
+      - Consolidation: 04_consolidation.md
+      - Shear Strength: 05_shear_strength.md
+      - Earth Pressure: 06_earth_pressure.md
     - Site Investigation:
-      - Site Investigation: site_investigation/site_investigation.md
-      - Insitu Test: site_investigation/insitu_test.md
-      - Sampling: site_investigation/sampling.md
+      - Site Investigation: 11_site_investigation.md
+      - Insitu Test: 12_insitu_test.md
+      - Sampling: 13_sampling.md
     - Foundations:
-      - Shallow Foundations: foundations/shallow_foundations.md
-      - Deep Foundations: foundations/deep_foundations.md
+      - Shallow Foundations: 21_shallow_foundations.md
+      - Deep Foundations: 22_deep_foundations.md
     - Slope and Retaining Wall:
-      - Slope: slope_retaining_wall/slope.md
-      - Retaining Wall: slope_retaining_wall/retaining_wall.md
+      - Slope: 31_slope.md
+      - Retaining Wall: 32_retaining_wall.md
     - Numerical Modelling:
-      - FLAC: numerical/flac.md
-#    - Contributing: contributing.md
+      - FLAC: 91_flac.md
 #    - License: license.md
 

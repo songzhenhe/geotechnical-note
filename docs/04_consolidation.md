@@ -1,5 +1,4 @@
-# Geotechnical Notes
+# Effective Stress
 
 written with markdown
-
 
