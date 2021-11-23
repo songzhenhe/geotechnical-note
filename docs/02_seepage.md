@@ -28,3 +28,4 @@ $$k_{s}=e^{-2 \frac{H}{B^{\prime}} K_{0} \tan \delta}$$
 where $k_{s}$ is silo reduction factor for area load effect
 
 In practice, the use of the silo reduction factors for buried flexible pipe calculations is usually limited to deep pipe trenches where H/B $\le$ 10.
+

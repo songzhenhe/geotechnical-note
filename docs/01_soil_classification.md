@@ -2,4 +2,4 @@
 
 USCS soil_classcification
 
-![image1](../figures/USCS.png)
+![image1](figures/USCS.png)

@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "f69ea7ecc4862245",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12b96ac665fc3a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/05_shear_strength.md",
+            "mode": "source"
+          }
+        },
+        "group": "dc85ad85e6db711e"
+      },
+      {
+        "id": "e765ed9c0f5c0415",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/05_shear_strength.md",
+            "mode": "preview"
+          }
+        },
+        "group": "dc85ad85e6db711e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5de29803863bacc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "374b5380f5f67436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7bc01fd8564c3ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6ddfc78c63f40321",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0342124110ce32a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbc952520da9df51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985ec98f553c23e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/05_shear_strength.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "05e51b55ff4ee690",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/05_shear_strength.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c12b96ac665fc3a6",
+  "lastOpenFiles": [
+    "docs/05_shear_strength.md",
+    "docs/04_consolidation.md",
+    "docs/02_seepage.md",
+    "docs/21_shallow_foundations.md",
+    "docs/13_sampling.md",
+    "docs/12_insitu_test.md",
+    "docs/11_site_investigation.md",
+    "docs/06_earth_pressure.md",
+    "docs/03_effective_stress.md",
+    "docs/01_soil_classification.md"
+  ]
+}
